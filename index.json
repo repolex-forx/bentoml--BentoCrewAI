@@ -1,0 +1,11 @@
+{
+  "org": "bentoml",
+  "repo": "BentoCrewAI",
+  "versions": [
+    {
+      "commit": "9ceb8976d7813d0a50c0ff420f9d5b447e553778",
+      "tag": "",
+      "parsed_at": "2026-11-08T03:19:51.164694+00:00"
+    }
+  ]
+}
